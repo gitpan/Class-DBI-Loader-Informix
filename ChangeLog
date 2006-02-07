@@ -1,0 +1,12 @@
+2006-02-07 21:09  jonathan
+
+	* MANIFEST, Makefile.PL, README, lib/Class/DBI/Informix.pm,
+	  lib/Class/DBI/Loader/Informix.pm, t/01load.t, t/02tables.t,
+	  t/03stores.t: First release
+
+2006-02-07 21:09  jonathan
+
+	* MANIFEST, Makefile.PL, README, lib/Class/DBI/Informix.pm,
+	  lib/Class/DBI/Loader/Informix.pm, t/01load.t, t/02tables.t,
+	  t/03stores.t: Initial revision
+
