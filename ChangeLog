@@ -1,3 +1,21 @@
+2006-02-08 10:45  jonathan
+
+	* t/03stores.t: Added insert test
+
+2006-02-08 10:45  jonathan
+
+	* lib/Class/DBI/Loader/Informix.pm: Now gets VERSION from CVS
+
+2006-02-08 10:45  jonathan
+
+	* lib/Class/DBI/Informix.pm: Class::DBI::Informix needs to provide
+	  the last insert id function
+
+2006-02-08 10:43  jonathan
+
+	* MANIFEST, Makefile.PL, README: Changed VERSION to come from
+	  Makefile.PL Added description to README
+
 2006-02-07 21:09  jonathan
 
 	* MANIFEST, Makefile.PL, README, lib/Class/DBI/Informix.pm,
