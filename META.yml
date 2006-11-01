@@ -1,6 +1,6 @@
 ---
 name: Class-DBI-Loader-Informix
-version: 0.03
+version: 1.4
 author:
   - 'Jonathan Stowe <jns@gellyfish.com>'
 abstract: Class::DBI::Loader Informix Implementation.
@@ -16,10 +16,10 @@ requires:
 provides:
   Class::DBI::Informix:
     file: lib/Class/DBI/Informix.pm
-    version: 0.03
+    version: 1.4
   Class::DBI::Loader::Informix:
     file: lib/Class/DBI/Loader/Informix.pm
-    version: 0.03
+    version: 1.4
 generated_by: Module::Build version 0.2805
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.2.html
